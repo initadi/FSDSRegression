@@ -1,1 +1,5 @@
-Flask
+flask
+numpy
+pandas
+matplotlib
+-e .  #Link that connects with the setup.py
