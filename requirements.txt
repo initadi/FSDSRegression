@@ -2,4 +2,6 @@ flask
 numpy
 pandas
 matplotlib
+scikit-learn
+seaborn
 -e .  #Link that connects with the setup.py
